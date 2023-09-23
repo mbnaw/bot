@@ -1,7 +1,0 @@
-**Heroku Buildpacks**
-```
-
-```
-```
-heroku/python
-```
