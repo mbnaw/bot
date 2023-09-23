@@ -22,3 +22,5 @@ vmess://eyJhZGQiOiJlZGVlbi5tYWtldXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiY2hyb21l
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTeTN1eGcyT210WkV2emx2@series-a2-mec.samanehha.co:443#M-%F0%9F%87%A6%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#M-%F0%9F%87%A7%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWk5CdVM3dlNQSmVXYjU0@series-a2-me.samanehha.co:443#M2-%F0%9F%87%A7%F0%9F%87%AD
+sn://wg?eNpjYmBgMLSw0DM0NNGztNAzMtpSwAwUMTfSMzTTM9Az0jfetNbTuzwnNT81p9jH1ygqPzvSJconPSLDrCLYLazcO8skxEM_3LzEOyfJ3y3Sdm1SboS_s7aboVuFq6-bZUplpreRh6m-YXBoSZWHgVdpWL6pYYZReUBaemW-bSMDKwNDIyPQCU25jY0AcmkoLw
+sn://wg?eNoNzsFOgzAYAOCq8eKrmJX_L7Rrm-xgCBXHNiUKenWWMTSAxpHZ3XggLsaYPd64fqfvnBCCglHkiqLiVP41F4QccTqSoECZ57MrJkDoYAqgEUHLAK3mvl1rCUoLHwqtFC88ZHJ4i-z3cxLepOF71WWmTHMRQwrVa5vdunppmupu1T59pS76mA3r-uU-vDZofqKlUdZVCYu5h4_Z7hDDvMtbjlu2f9iUrp315JKQhf38PxvD9aT57fsTQp8z8Q
