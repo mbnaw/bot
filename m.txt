@@ -87,3 +87,4 @@ vmess://eyJhZGQiOiJ0ZXN0c2cuYnB5amMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEaXZnaGU2NUdISjUzSGdGcmRvbg@124.217.248.193:51348#M%2B%F0%9F%87%B2%F0%9F%87%BE
 
 hi
+hmfis sociac
