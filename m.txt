@@ -62,3 +62,4 @@ sn://wg?eNpjYmBgWGRkZmBmZWJuYGCVYmBllWhmbGBlkZxmYZWamJJqlWiSZhHNzMCw09DcSM_QTM9A
 sn://wg?eNpjYmBgWGRkZmBmZWJuYGCVYmBllWhgbGyVbGZhYWWanJxkZZGSZH6bmYFhp6G5kZ6hmZ6BnpG-sREXQo-hoYGVhUmykVVimoGhlYVREtCYNAMLK3MzSzN9QyOLtaWO5v5-gSUZwZ7G_n4V-SF5IYXhIUbhWUFpWb4VBhk-GSauUZ5OvmUhoZG2a5NyI_ydtd0M3Spcfd0sUyozvY08TPUNg0NLqjwMvErD8k0NM4zKA9LSK_NtGxlYGRgqU9O2MQJ9EZ5YVKCwpbERAHaHOvw
 vless://16908063-6db5-456d-bdd7-22b1e79fcd47@full.safeamnetwork.xyz:44364/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://c7cb98d4-9162-42e4-a0d8-a4c4fa50bcf3@78.47.150.26:22855/?encryption=none&host=speedtest.net&type=tcp&headerType=http#M%2B%F0%9F%87%A9%F0%9F%87%AA
+vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80/?type=ws&encryption=none&host=dbdid89lh.%E4%BA%8B%E5%87%BA%E5%9C%BA%E6%AC%A1%E4%BB%A5%E8%BF%907.tech&path=%2F#M%2B%F0%9F%87%A9%F0%9F%87%AA
