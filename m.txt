@@ -50,3 +50,4 @@ vmess://eyJhZGQiOiI4OS4xMTYuMzguMTc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 hy2://16eb6b9509341345@45.91.92.191:16402/?insecure=1&obfs=salamander&obfs-password=e38d2c51#M%2B%F0%9F%87%A8%F0%9F%87%AD
 hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#M%2B%F0%9F%87%AB%F0%9F%87%B7
 sn://ssh?eNpjYGBgMLQ01TM0MtYzMrLQM9wRABRJKdYtK8jLSswrySzRS85_ywhSZWS8pRHEaPfVfrtgz9vty8HkmsZGAFVyF18
+tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@kuroit.yebekhe.link:443/?congestion_control=bbr&udp_relay_mode=quic#M%2B%F0%9F%87%A6%F0%9F%87%BF
