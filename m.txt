@@ -8,7 +8,6 @@ vmess://eyJhZGQiOiJkYXRhY2VudGVyLmN0LjAxLmJpcWliYW8uc2l0ZSIsImFpZCI6IjAiLCJhbHBu
 vless://962a733d-26d7-108d-7fa6-a8102ffea8eb@vowelquran18.xyz:443/?type=ws&encryption=none&path=%2Fcurrent_time&security=tls#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80/?type=ws&encryption=none&host=25.%E8%B6%B3%E7%90%83%E8%B6%B3%E5%AD%90%E5%AD%90%E8%B6%B35.tech&path=%2F#M%2B%F0%9F%87%BA%F0%9F%87%B8
 vmess://eyJhZGQiOiIxNDIuNC4xMjUuODQiLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTk2MTQiLCJwcyI6Ik0r8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ2MTQuNTgzMTgyLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjE0LjU4MzE4MS54eXoiLCJpZCI6IjU3N2NjZjFkLTFjNzMtNDBjYS05OWVlLTExZDg1M2JmZDMzMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoiTSvwn4e68J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MTQuNTgzMTgxLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#M%2B%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#M%2B%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTeTN1eGcyT210WkV2emx2@series-a2-mec.samanehha.co:443#M%2B%F0%9F%87%A6%F0%9F%87%AA
