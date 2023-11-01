@@ -43,7 +43,6 @@ vmess://eyJhZGQiOiI4OS4xMTYuMzguMTc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://38793aa7-d99e-4a9a-ad0c-92a16fdba916@panel23.bestvipserviceirr.xyz:8443/?type=grpc&encryption=none&sni=discord.com&fp=chrome&security=reality&pbk=oUTGWHDpyGFqE9Hfd48l75w192X5ELLX94_D4UU-4kw&sid=70e13198#M%2B%F0%9F%87%B3%F0%9F%87%B1
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.126.175:8080/?type=ws&encryption=none&host=de7.vlessx.us&path=%2F%3Fed%3D2048#M%2B%F0%9F%87%AB%F0%9F%87%B7
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@www.unpkg.com:8080/?type=ws&encryption=none&host=de7.vlessx.us&path=%2F%3Fed%3D2048#M%2B%F0%9F%87%AB%F0%9F%87%B7
-vless://9613ffe2-ebb9-461a-a820-a0c4811044f6@net.1lagvpn13.cfd:2087/?type=grpc&encryption=none&serviceName=%40L_AGVPN13%20%40L_AGVPN13%20%40L_AGVPN13%20%40L_AGVPN13&security=tls&sni=telgram.1lagvpn13.cfd#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://eb4e87f7-6422-4117-95b6-8a5153786898@104.21.48.84:2053/?type=grpc&encryption=none&serviceName=%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF%40IP_CF&security=tls&sni=jyyfyuuytfyiytfuygjfc.mic-mokhaderat-irancell-shatel-irancel.shop&alpn=http%2F1.1%2Ch2#M%2B%F0%9F%87%B3%F0%9F%87%B1
 vless://7ee16892-cbf2-4bda-8109-c4475f5ae6a4@t.tech-ir.xyz:30369/?encryption=none&host=fast.com&type=tcp&headerType=http#M%2B%F0%9F%87%A9%F0%9F%87%AA
 
