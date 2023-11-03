@@ -4,7 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#M%2B%F0%9F%87%A7%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWk5CdVM3dlNQSmVXYjU0@series-a2-me.samanehha.co:443#M%2B%F0%9F%87%A7%F0%9F%87%AD
 tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@kuroit.yebekhe.link:443/?congestion_control=bbr&udp_relay_mode=quic#M%2B%F0%9F%87%A6%F0%9F%87%BF
-hy2://a90d7bad-2256-4c70-9903-ca8a4dc200d6@181.214.99.84:8888/?insecure=1&sni=de1.vvv123.store#M%2B%F0%9F%87%A9%F0%9F%87%AA
 hy2://a90d7bad-2256-4c70-9903-ca8a4dc200d6@45.142.112.78:8888/?insecure=1&sni=de2.vvv123.store#M%2B%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989#M%2B%F0%9F%87%AD%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#M%2B%F0%9F%87%B5%F0%9F%87%B7
