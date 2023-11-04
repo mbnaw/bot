@@ -4,7 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#M%2B%F0%9F%87%A7%F0%9F%87%AD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnWk5CdVM3dlNQSmVXYjU0@series-a2-me.samanehha.co:443#M%2B%F0%9F%87%A7%F0%9F%87%AD
 tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@kuroit.yebekhe.link:443/?congestion_control=bbr&udp_relay_mode=quic#M%2B%F0%9F%87%A6%F0%9F%87%BF
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.255.219:989#M%2B%F0%9F%87%B5%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.49.152:989#M%2B%F0%9F%87%AE%F0%9F%87%B8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.179.23:989#M%2B%F0%9F%87%B2%F0%9F%87%BD
 vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.126.175:8080/?type=ws&encryption=none&host=de7.vlessx.us&path=%2F%3Fed%3D2048#M%2B%F0%9F%87%AB%F0%9F%87%B7
