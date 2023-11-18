@@ -30,3 +30,6 @@ vmess://eyJhZGQiOiIxMzUuMTI1LjEzNS4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#M%2B%F0%9F%87%A9%F0%9F%87%AA
 hy2://29e624ea-ac9a-46a6-a1bf-8db441ee23de@mmd1-bal.ddns.net:8888/?insecure=1&sni=mmd1-bal.ddns.net#M%2B%F0%9F%87%B9%F0%9F%87%B7
 hy2://29e624ea-ac9a-46a6-a1bf-8db441ee23de@mmd2-bal.ddns.net:8888/?insecure=1&sni=de2.vvv123.store#M%2B%F0%9F%87%A9%F0%9F%87%AA
+vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.47:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
+vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
+vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=ws&encryption=none&host=FI.SATOSHI.MOM&path=%2Fws&security=tls&sni=SATOSHI.MOM&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
