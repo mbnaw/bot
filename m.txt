@@ -33,3 +33,10 @@ hy2://29e624ea-ac9a-46a6-a1bf-8db441ee23de@mmd2-bal.ddns.net:8888/?insecure=1&sn
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.47:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=ws&encryption=none&host=FI.SATOSHI.MOM&path=%2Fws&security=tls&sni=SATOSHI.MOM&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ@89.19.216.18:8388#M%2B%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKa25UT0R4N2d6UXF3SkplUWxPdUxx@13.87.73.210:13844#M%2B%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdENuSUFBUUFzc2N3TG5vNUoyY3Fk@52.142.191.186:54452#M%2B%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1cURubHp4ZWVQcnBWR3BrbG5zSENJ@13.87.75.163:21176#M%2B%F0%9F%87%AC%F0%9F%87%A7
+hysteria://62.204.54.81:37899/?insecure=1&peer=www.microsoft.com&auth=OdHFS3zC3HlSYJmc0GLQNKLAlwDbJqEmonVBXmI07T0Ojb1bQB&upmbps=2&downmbps=10&alpn=h3#M%2B%F0%9F%87%BA%F0%9F%87%B8
+hy2://y0qochAspE+u-HLfrip-@217.69.9.125:443/?insecure=1&sni=Google.com&obfs=salamander&obfs-password=2pU%21%26Brls%210exuP%2B%214so#M%2B%F0%9F%87%AB%F0%9F%87%B7
+hysteria://51.158.54.46:11926/?insecure=1&peer=www.google.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=80&downmbps=100&alpn=h3#M%2B%F0%9F%87%AB%F0%9F%87%B7
