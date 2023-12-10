@@ -12,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdENuSUFBUUFzc2N3TG5vNUoyY3Fk@52.142.191.186
 hysteria://51.158.54.46:11926/?insecure=1&peer=www.google.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=80&downmbps=100&alpn=h3#M%2B%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#M%2B%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlWY3g0allyY2JGd21oUGtoemlt@95.164.89.142:58603#M%2B%F0%9F%87%A9%F0%9F%87%AA
-vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@104.21.89.214:80/?type=ws&encryption=none&host=v20.smartyticket.click&path=%2Fgraphql#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://b0e4e5dd-e6b7-491e-813e-ecd9fc3380e9@188.114.96.12:2053/?type=ws&encryption=none&host=assjkldcjkfjdsfk.eitaa.mom&path=%2Fbackup&security=tls&sni=assjkldcjkfjdsfk.eitaa.mom#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.57.252:80/?type=ws&encryption=none&host=v6jJJe6.talamala.store&path=%2Fgraphql#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@104.16.117.47:80/?type=ws&encryption=none&host=v6jJJe6.talamala.store&path=%2Fgraphql#M%2B%F0%9F%87%A9%F0%9F%87%AA
