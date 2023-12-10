@@ -4,7 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#M%2B%F0%9F%87%A7%F0%9F%87%AD
 hysteria://51.158.54.46:11926/?insecure=1&peer=youku.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=11&downmbps=55&alpn=h3#M%2B%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYd1dWUm1PMmtLdTZxSzFYbGloM0xmZTZMaDNSUmE5cg@213.183.44.17:8388#M%2B%F0%9F%87%A9%F0%9F%87%AA
-hy2://29e624ea-ac9a-46a6-a1bf-8db441ee23de@mmd2-bal.ddns.net:8888/?insecure=1&sni=de2.vvv123.store#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.47:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=grpc&encryption=none&security=tls&sni=SATOSHI.MOM&alpn=h2%2Chttp%2F1.1&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
 vless://268b571b-fcea-4b26-8947-b6e834116f81@104.31.16.89:443/?type=ws&encryption=none&host=FI.SATOSHI.MOM&path=%2Fws&security=tls&sni=SATOSHI.MOM&fp=chrome#M%2B%F0%9F%87%AB%F0%9F%87%AE
