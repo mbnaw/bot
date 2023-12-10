@@ -12,7 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdENuSUFBUUFzc2N3TG5vNUoyY3Fk@52.142.191.186
 hysteria://51.158.54.46:11926/?insecure=1&peer=www.google.com&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&upmbps=80&downmbps=100&alpn=h3#M%2B%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkUFc2U0toVmZxRGV2QmZkcnQ1ZUpn@95.164.87.138:63830#M%2B%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VXlWY3g0allyY2JGd21oUGtoemlt@95.164.89.142:58603#M%2B%F0%9F%87%A9%F0%9F%87%AA
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@104.16.117.47:80/?type=ws&encryption=none&host=v6jJJe6.talamala.store&path=%2Fgraphql#M%2B%F0%9F%87%A9%F0%9F%87%AA
 vless://c3024a15-0cd5-461a-d99c-14c64efea3f8@216.9.227.236:8443/?type=grpc&encryption=none&serviceName=TelegramID%3A%40iranbaxvpn&sni=greenpepper.ir&security=reality&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&sid=9825#M%2B%F0%9F%87%B9%F0%9F%87%B7
 vless://26834f5f-1e90-469d-98a8-aba9e9a6cd3f@d1.futurevpn.fun:38083/?encryption=none&host=telewebion.com&type=tcp&headerType=http#M%2B%F0%9F%87%A6%F0%9F%87%B9
 vmess://eyJhZGQiOiI1MS4xOTUuMTM5LjYyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM3ZTc4OTA5LTA0ODAtNTAwMS05ZTk2LTlkMDMyMGU2NTY3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiODA4MCIsInBzIjoiTSvwn4es8J+HpyIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
